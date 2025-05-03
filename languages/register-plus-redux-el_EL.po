@@ -578,6 +578,14 @@ msgid ""
 "to disable this check."
 msgstr ""
 
+#: rpr-admin-menu.php:439
+msgid "Blacklisted email domains"
+msgstr ""
+
+#: rpr-admin-menu.php:448
+msgid "Coma separated list of domains not allowed to register"
+msgstr ""
+
 #: rpr-admin-menu.php:446
 msgid "Additional Fields"
 msgstr "Επιπλέον Πεδία"
@@ -796,8 +804,8 @@ msgid "Send as HTML"
 msgstr "Αποστολή ως HTML"
 
 #: rpr-admin-menu.php:593 rpr-admin-menu.php:624 rpr-admin-menu.php:672
-msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
-msgstr "Μετατροπή νέων γραμμών σε &lt;br /&gt; tags (μόνο για HTML)"
+msgid "Convert new lines to &lt;br&gt; tags (HTML only)"
+msgstr "Μετατροπή νέων γραμμών σε &lt;br&gt; tags (μόνο για HTML)"
 
 #: rpr-admin-menu.php:601
 msgid "Custom Verification Message"
@@ -1517,7 +1525,7 @@ msgstr ""
 #~ "Αυτό το hack θα σταματήσει τον καθαρισμό του ονόματος του πεδίου το οποίο "
 #~ "μπορεί να λύσει το πρόβλημα. Ο \"καθαρισμός\" του ονόματος του πεδίου "
 #~ "(sanitize) μετατρέπει το όνομα σε πεζά γράμματα και απορρίπτει  όλους "
-#~ "τους άλλους χαρακτήρες εκτός από αριθμούς, την κάθετο ( / ) και το "
+#~ "τους άλλους χαρακτήρες εκτός από αριθμούς, την κάθετο (/) και το "
 #~ "underscore."
 
 #~ msgid "URL File Access is Disabled"

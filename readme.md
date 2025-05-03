@@ -1,9 +1,10 @@
 # Register Plus Redux
-Contributors: radiok
+Contributors: radiok, picman
+
 Tags: registration, register, plus, redux, password, invitation, code, email, verification, disclaimer, license, agreement, privacy, policy, logo, moderation, user
-Requires at least: 5.2
-Tested up to: 5.2
-Stable tag: 4.3.1
+Requires at least: 7.0
+Tested up to: 8.3
+Stable tag: 5.0.0
 
 Enhances the user registration process with complete customization and additional administration options.
 
@@ -57,7 +58,6 @@ Available in the following translations:
 * pt\_BR Portuguese
 * pt\_BR Brazilian Portuguese
 * ro\_RO Romanian
-* ru\_RU Russian
 * es\_ES Spanish
 * es\_AR Argentinean Spanish
 * tr\_TR Turkish
@@ -66,8 +66,8 @@ Available in the following translations:
 
 1. Upload the 'register-plus-redux' directory to the '/wp-content/plugins/' directory
 2. When installed on WordPress with Multisite, you must Network Activate 'Register Plus Redux' from the 'Plugins' menu in Network Admin to have access to all functionality (refer to the FAQ for more information)
-2. -OR- Simply Activate 'Register Plus Redux' from the site's 'Plugins' menu
-3. Configure Register Plus Redux from the 'Register Plus Redux' page under Settings on individual sites
+3. -OR- Simply Activate 'Register Plus Redux' from the site's 'Plugins' menu
+4. Configure Register Plus Redux from the 'Register Plus Redux' page under Settings on individual sites
 
 ## Frequently Asked Questions
 
@@ -119,6 +119,18 @@ HTML attributes should go in the following order name -> id -> class
 4. Unverified User Management
 
 ## Changelog
+
+### 5.0.0
+~ September, 2024 by picman
+
+* A complete reformatting and clean up of the code
+* W3C validation
+
+### 4.4.1
+~ August, 2024 by picman, radiok
+
+* New feature, "Blacklisted email domains" to block spammers
+* Updated embedded CSSTidy library
 
 ### 4.4.0
 ~December, 2023 by picman, radiok

@@ -572,6 +572,14 @@ msgid ""
 "to disable this check."
 msgstr ""
 
+#: rpr-admin-menu.php:439
+msgid "Blacklisted email domains"
+msgstr ""
+
+#: rpr-admin-menu.php:448
+msgid "Coma separated list of domains not allowed to register"
+msgstr ""
+
 #: rpr-admin-menu.php:446
 msgid "Additional Fields"
 msgstr "فیلدهای اضافه"
@@ -594,7 +602,7 @@ msgstr ""
 "داده خواهند شد. اختیار یا option ها می بایست برای  فیلد های Select , "
 "Checkbox و Radio وارد گردند. اختیارات می بایست با کاما از یکدیگر جدا شوند . "
 "برای مثال یک فلید Radio ای که جنسیت نامیده شده است می تواند دو اختیار مرد و "
-"زن داشت باشد که بصورت زیر باید وارد شوند <br />زن , مرد"
+"زن داشت باشد که بصورت زیر باید وارد شوند <br>زن , مرد"
 
 #: rpr-admin-menu.php:458
 msgid "Reorder"
@@ -787,9 +795,9 @@ msgid "Send as HTML"
 msgstr "در قالب html ارسال شود "
 
 #: rpr-admin-menu.php:593 rpr-admin-menu.php:624 rpr-admin-menu.php:672
-msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgid "Convert new lines to &lt;br&gt; tags (HTML only)"
 msgstr ""
-"تبدیل خطوط جدید به تگ  &lt;br /&gt; این امکان فقط در حالت فعال بودن گزینه  "
+"تبدیل خطوط جدید به تگ  &lt;br&gt; این امکان فقط در حالت فعال بودن گزینه  "
 "html امکان پذیر است"
 
 #: rpr-admin-menu.php:601
@@ -1095,7 +1103,7 @@ msgstr ""
 #: rpr-login.php:306 rpr-signup.php:328
 msgid "Have an invitation code? Enter it here. (This is not required)"
 msgstr ""
-"آیا شما یک کد دعوت دارید؟ آن را این جا وارد کنید ( این گزینه الزامی نیست )"
+"آیا شما یک کد دعوت دارید؟ آن را این جا وارد کنید (این گزینه الزامی نیست)"
 
 #: rpr-login.php:386 rpr-login.php:403 rpr-login.php:408 rpr-login.php:411
 #: rpr-login.php:416 rpr-login.php:421 rpr-login.php:426 rpr-login.php:431

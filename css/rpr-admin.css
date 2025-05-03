@@ -1,0 +1,144 @@
+/* Administration */
+table#meta-fields {
+    padding-left: 0;
+    width: 90%;
+}
+
+span.enableDisableFieldSettings {
+    color:#0000FF;
+    cursor: pointer;
+}
+
+tr.top,
+thead.top {
+    vertical-align: top;
+}
+
+td.center,
+tr.center {
+    vertical-align: center;
+}
+
+.disabled {
+    display: none;
+}
+
+textarea#message_verify_user_email,
+textarea#message_verify_user_admin {
+    width: 60%;
+    display: block;
+}
+
+td.padding_tbl {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+td.padding_tbl_40 {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 40%;
+}
+
+td.padding_tbl_20 {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 20%;
+}
+
+td.padding_tb {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+.cursor_move {
+    cursor: move;
+}
+
+.width_100 {
+    width: 100%;
+}
+
+.height_160 {
+    width: 100%;
+    height: 160px;
+    display: block;
+}
+
+table#disclaimer,
+table#license-settings,
+table#privacy-policy-settings,
+table#custom-user-message-settings,
+table#custom-verification-message-settings,
+table#custom-admin-message-settings,
+input#required_fields_style,
+input#domain_blacklist,
+input#registration_redirect_url,
+input#verification_redirect_url,
+input#custom_logo_url {
+    width: 60%;
+}
+
+input#message_disclaimer_title,
+input#message_disclaimer_agree,
+input#message_license_title,
+input#message_license_agree,
+input#message_privacy_policy_title,
+input#message_privacy_policy_agree {
+    width: 100%;
+}
+
+input#starting_tabindex,
+input#min_expected_seconds_to_register,
+input#min_password_length,
+input#delete_unverified_users_after {
+    width: 50px;
+}
+
+input#user_message_from_email,
+input#user_message_from_name,
+input#user_message_subject,
+input#verification_message_from_name,
+input#verification_message_subject,
+input#admin_message_from_email,
+input#admin_message_from_name,
+input#admin_message_subject,
+input#verification_message_from_email {
+    width: 90%;
+}
+
+textarea#message_disclaimer,
+textarea#message_license,
+textarea#message_privacy_policy {
+    width: 100%;
+    height: 160px;
+    display: block;
+}
+
+textarea#user_message_body,
+textarea#verification_message_body,
+textarea#admin_message_body {
+    width: 95%;
+    height: 160px;
+}
+
+textarea#custom_registration_page_css,
+textarea#custom_login_page_css {
+    width: 60%;
+    height: 160px;
+}
+
+table#registration-table {
+    border-spacing: 0;
+}
+
+.width_15 {
+    width: 15em;
+}

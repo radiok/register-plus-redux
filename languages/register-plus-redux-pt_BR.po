@@ -566,6 +566,14 @@ msgid ""
 "to disable this check."
 msgstr ""
 
+#: rpr-admin-menu.php:439
+msgid "Blacklisted email domains"
+msgstr ""
+
+#: rpr-admin-menu.php:448
+msgid "Coma separated list of domains not allowed to register"
+msgstr ""
+
 #: rpr-admin-menu.php:446
 msgid "Additional Fields"
 msgstr "Campos adicionais"
@@ -783,8 +791,8 @@ msgid "Send as HTML"
 msgstr "Enviar como HTML"
 
 #: rpr-admin-menu.php:593 rpr-admin-menu.php:624 rpr-admin-menu.php:672
-msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
-msgstr "Converter novas linhas para tags &lt;br /&gt; (só HTML)"
+msgid "Convert new lines to &lt;br&gt; tags (HTML only)"
+msgstr "Converter novas linhas para tags &lt;br&gt; (só HTML)"
 
 #: rpr-admin-menu.php:601
 msgid "Custom Verification Message"

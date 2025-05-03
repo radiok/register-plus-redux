@@ -1,9 +1,9 @@
 === Register Plus Redux ===
 Contributors: radiok
 Tags: registration, register, plus, redux, password, invitation, code, email, verification, disclaimer, license, agreement, privacy, policy, logo, moderation, user
-Requires at least: 5.2
-Tested up to: 5.2
-Stable tag: 4.3.1
+Requires at least: 7.0
+Tested up to: 8.3
+Stable tag: 5.0.0
 
 Enhances the user registration process with complete customization and additional administration options.
 
@@ -57,7 +57,6 @@ Available in the following translations:
 * pt_BR Portuguese
 * pt_BR Brazilian Portuguese
 * ro_RO Romanian
-* ru_RU Russian
 * es_ES Spanish
 * es_AR Argentinean Spanish
 * tr_TR Turkish
@@ -119,6 +118,18 @@ HTML attributes should go in the following order name -> id -> class
 4. Unverified User Management
 
 == Changelog ==
+
+= 5.0.0 =
+~ September, 2024 by picman
+
+* A complete reformating and clean up of the code
+* W3C validation
+
+= 4.4.1 =
+~ August, 2024 by picman, radiok
+
+* New feature, "Blacklisted email domains" to block spammers
+* Updated embedded CSSTidy library
 
 = 4.4 =
 ~December, 2023 by picman, radiok

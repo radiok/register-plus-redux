@@ -233,9 +233,9 @@ msgid ""
 msgstr ""
 "Nowi użytkownicy nie będą mogli się zalogować ani zresetować hasła dopóki "
 "nie zostaną zautoryzowani przez administratora. Jeśli oba procesy "
-"( weryfikacja email i autoryzacja przez Administratora  są włączone "
+"(weryfikacja email i autoryzacja przez Administratora  są włączone "
 "użytkownik nie będzie mógł się zalogować dopóki administrator go nie "
-"autoryzuje mimo zweryfikowania przez adres e-mail )."
+"autoryzuje mimo zweryfikowania przez adres e-mail)."
 
 #: rpr-admin-menu.php:144
 msgid ""
@@ -243,8 +243,8 @@ msgid ""
 "their email if both verification options are enabled). You may include HTML "
 "in this message."
 msgstr ""
-"Poniższa wiadomość zostanie wyświetlona po rejestracji użytkownika ( lub po "
-"weryfikacji jego email jeśli obie opcje weryfikacje są włączone ). Możesz "
+"Poniższa wiadomość zostanie wyświetlona po rejestracji użytkownika (lub po "
+"weryfikacji jego email jeśli obie opcje weryfikacje są włączone). Możesz "
 "używać tagów HTML w treści wiadomości."
 
 #: rpr-admin-menu.php:150
@@ -590,6 +590,14 @@ msgid ""
 "to disable this check."
 msgstr ""
 
+#: rpr-admin-menu.php:439
+msgid "Blacklisted email domains"
+msgstr ""
+
+#: rpr-admin-menu.php:448
+msgid "Coma separated list of domains not allowed to register"
+msgstr ""
+
 #: rpr-admin-menu.php:446
 msgid "Additional Fields"
 msgstr "Dodatkowe pola"
@@ -609,7 +617,7 @@ msgstr ""
 "formularzu rejestracji. Dodatkowe pola zostaną wyświetlone po istniejących "
 "polach Profilu oraz wybranych polach formularza rejestracji oraz przed "
 "polami: Hasło, Kod zaproszenia, Informacje dot. odpowiedzialności, "
-"Regulamin, Polityka prywatności ( jeśli któreś z nich zostało aktywowane ). "
+"Regulamin, Polityka prywatności (jeśli któreś z nich zostało aktywowane). "
 "Opcje muszą być oddane dla pól Select, Checkbox, i Radiobuttonów. Opcje "
 "muszą zostać wprowadzone oddzielone przecinkiem. Np radiobutton o nazwie "
 "\"Płeć\" powinno mieć następujące opcje, \"Mężczyzna,Kobieta\""
@@ -798,8 +806,8 @@ msgid "Send as HTML"
 msgstr "Wyślij jako HTML"
 
 #: rpr-admin-menu.php:593 rpr-admin-menu.php:624 rpr-admin-menu.php:672
-msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
-msgstr "Konwertuj nowe linijki &lt;br /&gt;  (Tylko HTML)"
+msgid "Convert new lines to &lt;br&gt; tags (HTML only)"
+msgstr "Konwertuj nowe linijki &lt;br&gt;  (Tylko HTML)"
 
 #: rpr-admin-menu.php:601
 msgid "Custom Verification Message"
@@ -1514,7 +1522,7 @@ msgstr ""
 #~ "Αυτό το hack θα σταματήσει τον καθαρισμό του ονόματος του πεδίου το οποίο "
 #~ "μπορεί να λύσει το πρόβλημα. Ο \"καθαρισμός\" του ονόματος του πεδίου "
 #~ "(sanitize) μετατρέπει το όνομα σε πεζά γράμματα και απορρίπτει  όλους "
-#~ "τους άλλους χαρακτήρες εκτός από αριθμούς, την κάθετο ( / ) και το "
+#~ "τους άλλους χαρακτήρες εκτός από αριθμούς, την κάθετο (/) και το "
 #~ "underscore."
 
 #~ msgid "URL File Access is Disabled"

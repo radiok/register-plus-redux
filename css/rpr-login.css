@@ -1,0 +1,13 @@
+/* Login page */
+p.margin_bottom_16 {
+    margin-bottom: 16px !important;
+}
+
+#pass_strength_msg,
+#invitation_code_msg,
+#disclaimer,
+#license,
+#privacy_policy,
+.display_inline {
+    display: inline;
+}
